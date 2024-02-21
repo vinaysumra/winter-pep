@@ -1,0 +1,19 @@
+
+.nav-outer{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(202, 223, 209);
+    color: rgb(180, 20, 20);
+    height: 8vh;
+}
+.nav-home{
+    margin: 5px 10px;
+}
+.nav-FormAction
+{
+    margin: 5px 10px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
